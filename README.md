@@ -1,2 +1,2 @@
-# c--arrays
+# csharp-arrays
 Unidimensional arrays manipulation
